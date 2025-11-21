@@ -5598,3 +5598,7 @@ ddns.cam
 # Reference: https://www.virustotal.com/gui/domain/cesy.top/relations
 
 cesy.top
+
+# Reference: https://x.com/L0Psec/status/1991910497663562045
+
+mexc.work
