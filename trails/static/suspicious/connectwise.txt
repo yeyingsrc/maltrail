@@ -1275,3 +1275,12 @@ ip107.ip-51-89-107.eu
 
 176.123.6.71:8041
 statcom.top
+
+# Reference: https://x.com/smica83/status/1991800711882093034
+# Reference: https://www.virustotal.com/gui/file/be22baf679b34a7ddbcbe6662ff42d70a667ce99b2792f2c715d91071309d069/detection
+
+45.128.156.14:443
+45.128.156.14:8041
+rguinuzmikolo.top
+app.rguinuzmikolo.top
+relays.rguinuzmikolo.top
