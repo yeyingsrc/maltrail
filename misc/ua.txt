@@ -2603,6 +2603,10 @@ HijackBot
 Custom C++
 Custom C++ HTTP Client/1.0
 
+# Reference: https://x.com/suyog41/status/1992864031208784381
+
+MinerAlert
+
 # Misc
 
 information_schema
