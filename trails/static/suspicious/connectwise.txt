@@ -1294,7 +1294,9 @@ instance-tm2rc3-relay.screenconnect.com
 # Reference: https://www.virustotal.com/gui/file/c6214f4dc0a9b76c89f0512a992a41d4f04235dbdba2534fc66bf435c3861a20/detection
 # BANNER_0_HASH-HOST=9186f78ba72e1f311406a32d68fa0023
 
+38.224.19.33:8041
 66.92.205.34:8041
+66.92.205.35:8041
 cvzsr.com
 encve.com
 vencw.com
