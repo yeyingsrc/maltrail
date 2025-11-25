@@ -1289,3 +1289,9 @@ relays.rguinuzmikolo.top
 # Reference: https://www.virustotal.com/gui/file/65e757f977a7f5b2a6d824070c932ba1f753f01d1f46d8786a81a82b7389b6fb/detection
 
 instance-tm2rc3-relay.screenconnect.com
+
+# Reference: https://x.com/malwrhunterteam/status/1993302815943671892
+# Reference: https://www.virustotal.com/gui/file/c6214f4dc0a9b76c89f0512a992a41d4f04235dbdba2534fc66bf435c3861a20/detection
+
+66.92.205.34:8041
+encve.com
