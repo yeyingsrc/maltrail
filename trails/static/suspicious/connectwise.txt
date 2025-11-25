@@ -1284,3 +1284,8 @@ statcom.top
 rguinuzmikolo.top
 app.rguinuzmikolo.top
 relays.rguinuzmikolo.top
+
+# Reference: https://x.com/malwrhunterteam/status/1993266143763526057
+# Reference: https://www.virustotal.com/gui/file/65e757f977a7f5b2a6d824070c932ba1f753f01d1f46d8786a81a82b7389b6fb/detection
+
+instance-tm2rc3-relay.screenconnect.com
