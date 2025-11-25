@@ -1300,3 +1300,9 @@ instance-tm2rc3-relay.screenconnect.com
 cvzsr.com
 encve.com
 vencw.com
+
+# Reference: https://x.com/SquiblydooBlog/status/1993295702819324061
+# Reference: https://www.virustotal.com/gui/file/000f7db3f2ecd050e9c9901482c650e69463b26ee91c82843f376d640a5846c7/detection
+
+95.214.234.238:8041
+edgeserv.ru
