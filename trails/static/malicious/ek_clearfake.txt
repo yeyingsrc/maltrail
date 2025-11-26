@@ -32376,6 +32376,16 @@ security-jpm.com
 
 re-capchaa.click
 
+# Reference: https://www.huntress.com/blog/clickfix-malware-buried-in-images
+
+1e442295.consent-verify.pages.dev
+3b4ce6c9.consent-verify.pages.dev
+3e6eb645.consent-verify.pages.dev
+5df43170.consent-verify.pages.dev
+6b04000.consent-verify.pages.dev
+d9e71335.consent-verify.pages.dev
+f6b04000.consent-verify.pages.dev
+
 # Generic
 
 /a3A7qLVn/
