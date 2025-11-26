@@ -9083,6 +9083,16 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /krajj4/foldstring.ps1
 /foldstring.ps1
 
+# Reference: https://x.com/smica83/status/1993761123967905932
+# Reference: https://www.virustotal.com/gui/file/2fcfbc1f258d5762cfcf5f72623ccf631babadcc5a99e2220f1850082d96b4ba/detection
+
+/kacc/charddigger.ps1
+/kacc/hordededuce.ps1
+/kacc/mendvoyage.ps1
+/charddigger.ps1
+/hordededuce.ps1
+/mendvoyage.ps1
+
 # Generic
 
 /5c0ca79.php
