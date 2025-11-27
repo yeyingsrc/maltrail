@@ -16422,8 +16422,13 @@ shy.is
 1x0.is
 
 # Reference: https://x.com/sdcyberresearch/status/1994067832888517096
+# CLASS_0_HASH-HOST=56dc27d059527bb852b24e11194d78ff
 
+artrocoach.com
 cspreported.com
+japangomenu.com
+shoeptpopular.com
+xrenchick.com
 
 # Generic
 
