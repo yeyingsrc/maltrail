@@ -16417,6 +16417,10 @@ jsdelijsm.com
 
 shy.is
 
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.37.208/relations
+
+1x0.is
+
 # Generic
 
 /assets/lfg.js
