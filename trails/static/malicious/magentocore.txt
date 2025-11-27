@@ -16421,6 +16421,10 @@ shy.is
 
 1x0.is
 
+# Reference: https://x.com/sdcyberresearch/status/1994067832888517096
+
+cspreported.com
+
 # Generic
 
 /assets/lfg.js
