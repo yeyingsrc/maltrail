@@ -5180,6 +5180,11 @@ cpanel.thekooljack.com
 
 157.112.78.134:443
 
+# Reference: https://arcticwolf.com/resources/blog/romcom-utilizing-socgholish-to-deliver-mythic-agent-to-usa-companies-supporting-ukraine/
+
+smashingboss.com
+email.smashingboss.com
+
 # Generic
 
 /Chrome.Quick.Update.ver.101.65.65282.js
