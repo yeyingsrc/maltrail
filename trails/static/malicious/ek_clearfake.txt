@@ -29719,6 +29719,8 @@ czplxttl.com
 daft-ie-booking.com
 daft-ie-viewing.com
 dash-web.com
+dashboard-online-verification.com
+dashboard-verification-online.com
 db-photo.support
 dcollegeone.com
 deleristeen.com
@@ -29823,6 +29825,7 @@ fedex-lnformation.com
 fidelitymobilesupport.sbs
 fidelitysafe.info
 fidelityserverpublic.sbs
+fideltyaccessportal.click
 fideltyauthhelp.sbs
 fideltycloudserver.sbs
 fideltycomfirmtext.lat
@@ -29842,9 +29845,11 @@ fideltylocalprotection.sbs
 fideltylocalsecurity.sbs
 fideltylocaltext.sbs
 fideltymaagement-support.sbs
+fideltymobilebrowser.click
 fideltymobilehelp.sbs
 fideltymobilenotice.sbs
 fideltynetworkfaq.sbs
+fideltynetworksupport.world
 fideltynoticesecured.sbs
 fideltynotificationtexts.sbs
 fideltyonlinesecure.sbs
@@ -29867,6 +29872,7 @@ fideltytextnotices.sbs
 fideltytextportfolio.sbs
 fideltytextransfer.lat
 fideltytextsecure.sbs
+fideltytextservice.world
 fideltytextsupport.world
 fideltytheftprevention.sbs
 fideltyverificationhelp.sbs
