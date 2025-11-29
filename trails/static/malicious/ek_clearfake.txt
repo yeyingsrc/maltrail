@@ -33639,6 +33639,9 @@ f6b04000.consent-verify.pages.dev
 
 # Reference: https://x.com/BlinkzSec/status/1994669905866887306
 # Reference: https://www.virustotal.com/gui/ip-address/88.214.50.121/relations
+# Reference: https://www.virustotal.com/gui/file/086d9294348d95feb9f740db515f9708d2ab76cfa15815b7c7f79122932900de/detection
+# Reference: https://www.virustotal.com/gui/file/689fff0d04a20c4e7698bb9122036d242ff7d35e4a10c8065da76d79c9c3d9a8/detection
+# Reference: https://www.virustotal.com/gui/file/936a40f6930d0ff1f9450187184f2111fa283b9a1b632d4e6b7efe557e44ceaf/detection
 
 http://88.214.50.121
 account-captchapulse.com
