@@ -30109,6 +30109,7 @@ fideltyfaqsupport.sbs
 fideltyinfomation.world
 fideltyinfomationglobal.cfd
 fideltyinvestmentadvice.sbs
+fideltyinvestmentext.lat
 fideltyinvestmentlocal.click
 fideltyirahelp.sbs
 fideltylocalprotection.sbs
@@ -30124,6 +30125,7 @@ fideltynoticesecured.sbs
 fideltynotificationtexts.sbs
 fideltyonlinesecure.sbs
 fideltyportfoliohelp.sbs
+fideltyportfolioknowledge.lat
 fideltyportfolioprofile.sbs
 fideltyportfoliosupport.sbs
 fideltyportfoliotexts.sbs
