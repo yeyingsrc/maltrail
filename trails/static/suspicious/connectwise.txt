@@ -1306,3 +1306,9 @@ vencw.com
 
 95.214.234.238:8041
 edgeserv.ru
+
+# Reference: https://x.com/smica83/status/1994727602272309588
+# Reference: https://tria.ge/251129-ndtd8atnfx/behavioral1
+
+124.198.132.55:8041
+memphiswave.com
