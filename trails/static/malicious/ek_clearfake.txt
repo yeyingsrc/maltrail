@@ -34278,6 +34278,13 @@ mkjjq.com
 mujjs.com
 soskql.com
 
+# Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2025-11-30)
+
+aspirindrained.digital
+drearilystrobe.com
+acronis.aspirindrained.digital
+for.drearilystrobe.com
+
 # Generic
 
 /a3A7qLVn/
