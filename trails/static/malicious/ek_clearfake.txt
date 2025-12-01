@@ -34301,6 +34301,18 @@ drearilystrobe.com
 acronis.aspirindrained.digital
 for.drearilystrobe.com
 
+# Reference: https://app.validin.com/detail?find=742ceb1a9fdb31204636ec9dedb015e2&type=hash&ref_id=4cf832ec4e7#tab=host_pairs (# 2025-12-01)
+
+aurabk.com
+exploretrad.com
+fitepc.com
+g-easytdg.com
+infinity-trde.net
+milletkoin.com
+pipsflow.net
+xcapmkt.com
+xmk-trad.com
+
 # Generic
 
 /a3A7qLVn/
