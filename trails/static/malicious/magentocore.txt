@@ -16430,6 +16430,11 @@ japangomenu.com
 shoeptpopular.com
 xrenchick.com
 
+# Reference: https://x.com/sdcyberresearch/status/1995441432149319762
+
+analyzerai.icu
+onlinechatmatrix.store
+
 # Generic
 
 /assets/lfg.js
