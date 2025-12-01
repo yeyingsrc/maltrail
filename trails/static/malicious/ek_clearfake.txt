@@ -34584,6 +34584,34 @@ westlasat.com
 youmobils.com
 yousfaer.com
 
+# Reference: https://app.validin.com/detail?find=partner.booking.com&type=dom&ref_id=84655c08780#tab=host_pairs (# 2025-12-01)
+
+alloconcierge.online
+booking.completed-reservations.com
+booking.d-extranet.com
+booking.extranet-list-reserve.com
+booking.homgr-extranet.com
+booking.reportcenterhq.com
+booking.reviewsched.com
+booking.rmsnoticelog.com
+bookingcomplaint-id0109.live
+bookingcomplaint-id0110.live
+bookingcomplaint-id0112.live
+bookingcomplaint-id0113.live
+bookingcomplaint-id0116.live
+bookingcomplaint-id0119.live
+bookingcomplaint-id1301.live
+bookingcomplaint-id1900.live
+bookingcomplaint-id9928.live
+completed-reservations.com
+d-extranet.com
+extranet-list-reserve.com
+homgr-extranet.com
+partner-booking-hub.com
+reportcenterhq.com
+reviewsched.com
+rmsnoticelog.com
+
 # Generic
 
 /a3A7qLVn/
