@@ -16224,6 +16224,7 @@ statspots.com
 stattmark.com
 webstatusis.com
 wessist.com
+wiesestat.com
 wwwgyoutube.com
 
 # Reference: https://x.com/sdcyberresearch/status/1965736554820739163
