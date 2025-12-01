@@ -34252,6 +34252,8 @@ f6b04000.consent-verify.pages.dev
 # Reference: https://www.virustotal.com/gui/file/936a40f6930d0ff1f9450187184f2111fa283b9a1b632d4e6b7efe557e44ceaf/detection
 
 http://88.214.50.121
+account-bookcaptcha.cfd
+account-bookcaptcha.com
 account-captchapulse.com
 account-captchapulse.info
 account-captchapulse.online
