@@ -34699,6 +34699,36 @@ winxpro.club
 winzone24.com
 youtude-confi.com
 
+# Reference: https://app.validin.com/detail?find=ef813785253786474a59&type=hash&ref_id=687052cf61f#tab=host_pairs (# 2025-12-01)
+# Reference: https://app.validin.com/detail?find=e781845bf1f65457629f&type=hash&ref_id=687052cf61f#tab=host_pairs (# 2025-12-01)
+# Reference: https://app.validin.com/detail?find=e5c1c53286f5b932979d&type=hash&ref_id=687052cf61f#tab=host_pairs (# 2025-12-01)
+
+accepd-guest.com
+booking.accepd-guest.com
+booking.guest-exranets.com
+booking.hotelmngt.com
+booking.lastminreviwers.com
+booking.required-extranet.com
+booking.reviwes-services.com
+checks-extranet.com
+extranet-serviseid.com
+extrant-id16563.com
+extrmnet-platform.com
+guest-accepd.com
+guest-exranets.com
+guest-reply-id4781.com
+guest-reports.com
+hotel-gate.com
+hotel-reviwers.com
+hotelmngt.com
+lastminreviwers.com
+my-app-kemba.cfd
+my-kemba-portal.com
+required-extranet.com
+reviwes-services.com
+web-secrue-portal.com
+web-securety-gate.com
+
 # Generic
 
 /a3A7qLVn/
