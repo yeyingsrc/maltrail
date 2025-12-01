@@ -30456,6 +30456,7 @@ fideltynoticesecured.sbs
 fideltynotificationhelp.world
 fideltynotificationtexts.sbs
 fideltyonlinesecure.sbs
+fideltyportfoliofaqs.lat
 fideltyportfoliohelp.sbs
 fideltyportfolioknowledge.lat
 fideltyportfolioprofile.sbs
@@ -30851,6 +30852,7 @@ nt-au.com
 ntt-am.com
 number-authentication.com
 numbsants.com
+nyausallacess.sbs
 nyunabpayalert.sbs
 o2agreetolatest-terms.com
 office-accessauservices.com.de
