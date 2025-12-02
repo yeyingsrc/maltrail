@@ -1002,6 +1002,9 @@ function makeMask(bits) {
 }
 
 function netmaskValidate(netmask) {
+    if (!netmask || typeof netmask !== 'string') {
+        return false;
+    }
     var match = netmask.match(/^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\/\d{1,2}$/);
     return match !== null;
 }
@@ -1964,12 +1967,20 @@ function initDetails() {
 }
 
 function generateNonce() {
-    var retval = "";
-
-    for(var i = 0; i < NONCE_LENGTH; i++)
-        retval += NONCE_ALPHABET.charAt(Math.floor(Math.random() * NONCE_ALPHABET.length));
-
-    return retval;
+    if (window.crypto && window.crypto.getRandomValues) {
+        const array = new Uint32Array(1);
+        const result = [];
+        for (let i = 0; i < NONCE_LENGTH; i++) {
+            crypto.getRandomValues(array);
+            result.push(NONCE_ALPHABET.charAt(array[0] % NONCE_ALPHABET.length));
+        }
+        return result.join('');
+    } else {
+        let retval = "";
+        for(let i = 0; i < NONCE_LENGTH; i++)
+            retval += NONCE_ALPHABET.charAt(Math.floor(Math.random() * NONCE_ALPHABET.length));
+        return retval;
+    }
 }
 
 String.prototype.hashCode = function() {
