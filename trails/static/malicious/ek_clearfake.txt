@@ -34341,6 +34341,7 @@ f6b04000.consent-verify.pages.dev
 http://88.214.50.121
 account-bookcaptcha.cfd
 account-bookcaptcha.com
+account-bookextranet.icu
 account-captchapulse.com
 account-captchapulse.info
 account-captchapulse.online
@@ -34362,6 +34363,7 @@ account-pulsetoken.com
 account-tokenpulse.com
 icejqq.com
 kjarz.com
+kligar.com
 mijkar.com
 mkjjq.com
 mujjs.com
