@@ -4878,6 +4878,7 @@
 # Reference: https://ipinfo.io/AS215826
 
 147.45.45.0/24,partner-hosting-ltd
+178.17.62.0/24,partner-hosting-ltd
 185.100.157.0/24,partner-hosting-ltd
 185.102.115.0/24,partner-hosting-ltd
 185.107.74.0/24,partner-hosting-ltd
