@@ -3355,6 +3355,7 @@ http://43.133.217.169
 
 198.46.221.26:3232
 198.46.221.26:8888
+evam-web-sdk.s3.dualstack.eu-central-1.amazonaws.com
 
 # TITLE-IP/HOST=Supershell - 登录
 
