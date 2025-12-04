@@ -35227,6 +35227,15 @@ reviwes-services.com
 web-secrue-portal.com
 web-securety-gate.com
 
+# Reference: https://x.com/JAMESWT_WT/status/1996482891472306576
+# Reference: https://www.virustotal.com/gui/ip-address/85.235.205.231/relations
+
+admin-extranet-property.com
+adminextranethotelpms.com
+extranet-info-book.com
+myotransy.com
+seomorry.com
+
 # Generic
 
 /a3A7qLVn/
