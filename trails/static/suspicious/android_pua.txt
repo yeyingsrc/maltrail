@@ -1079,3 +1079,7 @@ vanced.to
 demaldefaces.top
 postback.info
 chigoe.demaldefaces.top
+
+# Reference: https://www.virustotal.com/gui/file/074fc4cd105dd1f1dfed3a22d4e38d3db19f1243917d959440bb91fd079b7b64/detection
+
+unknownlove.qzz.io
