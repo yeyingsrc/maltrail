@@ -35220,8 +35220,10 @@ http://88.214.50.121
 account-bookcaptcha.cfd
 account-bookcaptcha.com
 account-bookextranet.icu
+account-bookpulse.icu
 account-bookscaptcha.com
 account-bookspulse.com
+account-bookupdate.cfd
 account-captchapulse.com
 account-captchapulse.info
 account-captchapulse.online
@@ -35241,6 +35243,7 @@ account-optoken.com
 account-partner.com
 account-pulsetoken.com
 account-tokenpulse.com
+bookcaptchasync.com
 icejqq.com
 kjarz.com
 kligar.com
@@ -35248,6 +35251,7 @@ mijkar.com
 mkjjq.com
 mujjs.com
 soskql.com
+www-youtube-com-watchvideo.cfd
 
 # Reference: https://threatfox.abuse.ch/browse/tag/ClearFake/ (# 2025-11-30)
 
