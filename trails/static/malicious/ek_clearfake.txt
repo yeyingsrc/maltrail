@@ -17428,6 +17428,7 @@ update-info926.com
 # Reference: https://app.validin.com/detail?find=7229fb742242db43d708ae9e9205581d9289c3b9&type=hash#tab=host_pairs (# 2025-08-26)
 # BANNER_0_HASH-HOST=e315d6ad1e2c4d68dcc7fe74f7af3755
 # BANNER_0_HASH-HOST=ea4d1265d1cffb4b1ee4919cf8118d8b
+# BANNER_0_HASH-HOST=7121c4806441ea5c4cec43943ded3948
 # BODY_SHA1-HOST=8ac51f034910680f51981b0ec04f879bcbc99e78
 # HEADER_HASH-HOST=e4e083a118adbb676141
 
@@ -17475,6 +17476,7 @@ update-info926.com
 05c8.4y328.ru
 05c8.o411213.ru
 05xg.br-1-ar-wild.ru
+061.rv6324.ru
 061.u521483.ru
 0615.9e466.ru
 0615.i733643.ru
@@ -17647,6 +17649,7 @@ update-info926.com
 16.bashglider.ru
 16.mynq.ru
 160287.93i197934.ru
+160287.rv6324.ru
 160287.u521483.ru
 163.4sa.info
 1665s.saffronjet.ru
@@ -17761,6 +17764,7 @@ update-info926.com
 1tqwn.morrowplug.ru
 1u.v0ltmorrow.ru
 1u74z.moss-owl.ru
+1unarpetal.ru
 1v.fastl1ne.ru
 1v.j8ro.ru
 1v0ry51gnai.ru
@@ -17796,6 +17800,7 @@ update-info926.com
 21.stormcairn.ru
 21.su4n.ru
 219.93i197934.ru
+219.rv6324.ru
 219.u521483.ru
 21k2.fl-0-wbud.ru
 21n.glacialufer.ru
@@ -18288,6 +18293,7 @@ update-info926.com
 5kch.n0vaharbor.ru
 5kmb.fie-1-dcl-0-se.ru
 5lr1v.ru
+5lurspe7ok.motorcycles
 5lw6.lumentwist.ru
 5m.bo8y.ru
 5m.maplexenon.ru
@@ -18475,6 +18481,7 @@ update-info926.com
 7-fd.ru
 7-gb.ru
 7-h9.ru
+7-j230.ru
 7-nenop-38-oy.ru
 7-ustterrib-1-e.ru
 7.c70ye.ru
@@ -18674,6 +18681,7 @@ update-info926.com
 84w7.pulseknob.ru
 85.ndoq0.ru
 851.93i197934.ru
+851.rv6324.ru
 851.u521483.ru
 85y.mystleaf.ru
 86.bl1zpond.ru
@@ -18805,6 +18813,7 @@ update-info926.com
 93.k59ee.ru
 93.se5m.ru
 93055.93i197934.ru
+93055.rv6324.ru
 93055.u521483.ru
 932.wir-2.ru
 9375.skym0tion.ru
@@ -19273,6 +19282,7 @@ ao.n9t6m.ru
 ao.nyfk.ru
 ao.x0a3.ru
 ao2.bul1upd2ted.ru
+aoim.review
 ap.b5x1g.ru
 ap.c8i0.ru
 ap.mintcraft.ru
@@ -19359,6 +19369,7 @@ at.skym0tion.ru
 at.to-qa.ru
 at.tvti0.ru
 at.v7h3.ru
+at4o5pend.net
 at7.rjuq3.ru
 atd.b2rvshap0v.ru
 atd.e-dx.ru
@@ -19404,6 +19415,7 @@ av.p9v7g.ru
 av.qcet-8.ru
 av.r1a4.ru
 av.x8q0h.ru
+ava1ankva5na.qpon
 avian2.st0nebird.ru
 aw.614lo.ru
 aw.g6i2.ru
@@ -19452,6 +19464,7 @@ az.b8a2.ru
 az.g0s1f.ru
 az.v1n4n.ru
 azaler.icu
+azar.ink
 azure.mcej-9.ru
 azure5.bluem1st.ru
 b-1-ttper-7-ent.ru
@@ -20040,7 +20053,9 @@ bright6.cl1ffwood.ru
 bright7.st0y70renka.ru
 bright9.c1earway.ru
 brightc0de.ru
+brightc0ve.ru
 brightden.ru
+brightf0rest.ru
 brightf0rge.ru
 brightf1eld.ru
 brightfall.ru
@@ -20050,6 +20065,7 @@ brightmist.ru
 brightpeak.ru
 brightridge.ru
 brightsage.ru
+brightsilk.ru
 brightst0ne.ru
 brightstep.ru
 brightv1be.ru
@@ -20258,6 +20274,7 @@ c1ow7d.c-1-othwou-1-d.ru
 c1owd7.c1othwou1d.ru
 c1p7mx.tape-5-x.ru
 c1ubmel0dic.ru
+c1uo.st0neleaf.ru
 c1wx9d.c1othwou1d.ru
 c2.kdesu.ru
 c2.t4mox.ru
@@ -20327,6 +20344,7 @@ cabym.press
 cadynue6.ru
 cae-5-arf-0-rk.ru
 cae5arf0rk.ru
+caiip.darkb1rd.ru
 cairnsteg.ru
 calm.vudeh0ae3.ru
 calm4y.lazywind.ru
@@ -20334,6 +20352,7 @@ calub.run
 campsitegradually.ru
 can.jsuv0.ru
 can0py.0akshade.ru
+can5arc0phag.net
 canez.icu
 canyonsturm.ru
 cap.j1gglestone.ru
@@ -20589,6 +20608,7 @@ chit7a5tat.ru
 chp.gyj-0.ru
 chri5t1anget.ru
 chu.dc-8.ru
+chugerasure.com
 ci.kmbo-6.ru
 ci0udmark.ru
 ci0udx.cioudberryx.ru
@@ -20598,6 +20618,7 @@ ciearbug.ru
 ciearbyte.ru
 cieardrop.ru
 ciearforge.ru
+ciearstream.ru
 ciku.sn-0-rtling.ru
 cil3.lifet1met0rt.ru
 cinder-bloom.ru
@@ -20637,6 +20658,7 @@ cl0ckw0rk.ru
 cl0udfall.ru
 cl0udland.ru
 cl0udmark.ru
+cl0udmint.ru
 cl0udnest.ru
 cl0udramble.ru
 cl0udrise.ru
@@ -20668,6 +20690,7 @@ clearbyte.ru
 cleardrop.ru
 clearfog.ru
 clearm0on.ru
+clearm1st.ru
 clearpeak.ru
 clearspark.ru
 cliff.br-1-ar-wild.ru
@@ -20685,6 +20708,7 @@ clock.7-doxok-46-eu.ru
 clock.st0negate.ru
 clock1.cl0udrise.ru
 clock6.4-pytim-30-ua.ru
+cloud-sharehub.com
 cloud.8u2a9.ru
 cloud.8y7o4.ru
 cloud.a5pirbo0rda.ru
@@ -20771,6 +20795,7 @@ col1oq0oms.ru
 colaj.icu
 cold6.p1nk.ru
 coletuo46.ru
+comethoehle.ru
 cometlinde.ru
 cometpfad.ru
 commi-5-sfa-7-t.ru
@@ -20782,6 +20807,7 @@ comp-0-tsab-3-e.ru
 comp.mor5tud1es.ru
 comp0.simp7euna3t.ru
 comp0tsab3e.ru
+comp1excol0r.net
 compo5tc0or.ru
 comyk.icu
 consolebriskly.com
@@ -20864,16 +20890,20 @@ crypt0field.ru
 cryptr1ver.ru
 crys7a.crystalv1be.ru
 crysta1drop.ru
+crysta1moss.ru
 crysta1shore.ru
+crystal-berry.ru
 crystal.5eertr1ad.ru
 crystal.adv0cal1egat.ru
 crystal.br1ghtzone.ru
 crystal.cloudb1te.ru
 crystal0ak.ru
+crystal0ver.ru
 crystal2.shadowtrail.ru
 crystalcavern.ru
 crystalf0x.ru
 crystalmoor.ru
+crystalpeak.ru
 crystalr1se.ru
 crystalriver.ru
 crystalrun.ru
@@ -21041,11 +21071,13 @@ data1.fa-1-cbrea-5-t.ru
 data8.po-1-ba-8-esett.ru
 daty.cloudr1ver.ru
 daw.gl-1-tchgarden.ru
+dawn-mirror.ru
 dawn.brightf1eld.ru
 dawn.emberfrontier.ru
 dawnanker.ru
 dawne.brightden.ru
 dawnforge.ru
+dawnmirror.ru
 day.jytoceo30.ru
 day.kpyb0.ru
 day.pl8a.ru
@@ -21097,6 +21129,7 @@ deepf0x.ru
 deepflash.ru
 deepm1nt.ru
 deepstream.ru
+deeptrack.ru
 deepv0yage.ru
 deepvalley.ru
 deepw0rd.ru
@@ -21732,6 +21765,7 @@ eyv.v0xelspark.ru
 ez.sqfe-6.ru
 ez.tundraflip.ru
 f-05-t.ru
+f-1-sslehub.ru
 f-2-na-7-under.ru
 f-42-s.ru
 f-xiu4.ru
@@ -21760,6 +21794,7 @@ f1o.twistnova.ru
 f1oor.4-pytim-30-ua.ru
 f1owreci7at.ru
 f1recliff.ru
+f1recloud.ru
 f1recrest.ru
 f1reline.ru
 f1rest0ne.ru
@@ -22126,6 +22161,7 @@ forest.skyhollow.ru
 forest.stormbiend.ru
 forest1.waveb0x.ru
 forest2.waveb0x.ru
+forestc1imb.ru
 forestgl0w.ru
 forge.joltberry.ru
 forge.spiintforge.ru
@@ -22135,6 +22171,7 @@ forge7.lake5p1rit.ru
 forge9.codecog.ru
 forgehafen.ru
 forty.4-pytim-30-ua.ru
+forum.shadowbyte.ru
 forward.rjuq-3.ru
 four.rjuq-3.ru
 fox-ab.ru
@@ -22153,6 +22190,7 @@ fpx0w.bowin-1-nca-5.ru
 fpzu.ic0n1cvalley.ru
 fq.wdax1.ru
 fq8.r1ver.ru
+fqz.silverh1ll.ru
 fr.bb-3-y-5.ru
 fr.d42n.ru
 fr.ha0m.ru
@@ -22697,6 +22735,8 @@ gold.shadowsprint.ru
 gold.vudujiu33.ru
 gold.windsh1ne.ru
 gold7y.g0ldfish.ru
+golden-branch.ru
+goldenbranch.ru
 goldmist.ru
 goldtalon.ru
 gomocya2.ru
@@ -22725,6 +22765,7 @@ gr85vx.ger-8-y-5-evruga.ru
 grand.7-nenop-38-oy.ru
 grani-tope.ru
 granitebach.ru
+granitegabel.ru
 granitehaven.ru
 granitekamm.ru
 granitepfad.ru
@@ -22876,6 +22917,7 @@ h1.zms-u.ru
 h18u.manual-1-sa-1-yz.ru
 h1d.m1dnightr0ad.ru
 h1ddenlake.ru
+h1llspring.ru
 h1n.nibulu.ru
 h1p.horizonspur.ru
 h1p.opaldrift.ru
@@ -23409,6 +23451,8 @@ ic0n1cforge.ru
 ic0n1cshore.ru
 ic0n1ctrove.ru
 ic0n1cvalley.ru
+ic0nicr1ver.online
+ic0nicr1ver.ru
 ic0nostu1an.ru
 ic3.wtok2.ru
 ic3bud.fr0stpetai.ru
@@ -23423,6 +23467,7 @@ icell3.frostdrop.ru
 icetap.ru
 icethornridge.ru
 icey4x.iceglow.ru
+icy-lotus.ru
 icy-moth.ru
 icylotus.ru
 icymoth.ru
@@ -23513,6 +23558,7 @@ iro.zzax-4.ru
 irodx.embercross.ru
 ironbl0om.ru
 ironbucht.ru
+ironcrest.ru
 ironklippe.ru
 ironsh1eld.ru
 ironweide.ru
@@ -23634,6 +23680,7 @@ jam.cr1mpoint.ru
 jam.me2v.ru
 jam7ly.cioudberryx.ru
 jamcrest.ru
+jami-package.net
 jar.da5v.ru
 jar.fa0n.ru
 jar.zen-and.ru
@@ -23937,6 +23984,7 @@ kenut.press
 kerubuo3.ru
 kerwp.vexlatch.ru
 kesogio6.ru
+kestrelteich.ru
 kestrelwinkel.ru
 key.la9q.ru
 key.z3lu.ru
@@ -23975,6 +24023,7 @@ kilnberg.ru
 kilupya0.ru
 kilut4ou8.ru
 kimono.nqyf-7.ru
+kimybae5.online
 kimybae5.ru
 kink-bellow.ru
 kinkbellow.ru
@@ -24134,6 +24183,7 @@ kujim.run
 kujywii.ru
 kul.ta11y.ru
 kunb.ru
+kupferstern.ru
 kuq5g.ru
 kuqob.top
 kuqogaa4.ru
@@ -24174,6 +24224,7 @@ l-0-ngpo-1-e.ru
 l-0-tta-1-ent.ru
 l-1-ghtcascade.ru
 l-5228.ru
+l-75y.ru
 l-ly.ru
 l.bi3ux.ru
 l.dasurie36.ru
@@ -24208,6 +24259,7 @@ l1ghtflare.ru
 l1ghtforest.ru
 l1ghtseed.ru
 l1ghtstorm.ru
+l1ghtstream.ru
 l1ghtwave.ru
 l1mewave.ru
 l1necloud.ru
@@ -24371,6 +24423,7 @@ li90.b1tzdrop.ru
 libij.icu
 libin5ya3.ru
 libityi2.ru
+lichenpfad.ru
 licht.argonbucht.ru
 licht.boulderfield.ru
 licht.brackenloft.ru
@@ -24611,6 +24664,8 @@ m00nweaver.ru
 m046d.ru
 m0ma.ngiz5.ru
 m0onforger.ru
+m0onsh1nebay.online
+m0onsh1nebay.ru
 m0q8.mintcraft.ru
 m0rning.ru
 m0saik.ragmosaic.ru
@@ -24636,6 +24691,7 @@ m1r3.amberr0cket.ru
 m1s.van1.ru
 m1stbird.ru
 m1stcloud.ru
+m1stgrove.ru
 m1stic.abstractm1s5.ru
 m1stlake.ru
 m1stpk.mistpeak.ru
@@ -24900,9 +24956,12 @@ mica.frostwilder.ru
 micuh.run
 midn1ghtdrop.ru
 midnightkiefer.ru
+mighty-flora.ru
+mightyflora.ru
 migyvya2.ru
 mijk.ru
 mimyfai0.ru
+minglecrate.ru
 mint.cioudpeak.ru
 mint.cog-whittle.ru
 mint.id1otre5ist.ru
@@ -25424,6 +25483,7 @@ night.f1nsh2ytan.ru
 night.forestgl0w.ru
 night.intr0dki5h.ru
 night0ra.ru
+nightb1rd.ru
 nightbl0om.ru
 nightblossom.ru
 nightc0de.ru
@@ -25719,6 +25779,7 @@ oft.m4rj.ru
 og.l1ghtwave.ru
 ogg.migyvya2.ru
 ogj.po5m.ru
+oh.fenod.ru
 oh.j5-ol.ru
 oh.ko-8r.ru
 oh.pvzi1.ru
@@ -25824,6 +25885,7 @@ orbit9.warpclutch.ru
 orbitalnip.ru
 orbitkamm.ru
 orbitling.ru
+orbitzweig.ru
 ore.n4ym.ru
 orionfeld.ru
 oryxbucht.ru
@@ -26191,6 +26253,7 @@ pixe1tu1ip.ru
 pixel-orbit.ru
 pixel.p7ecunder8.ru
 pixelbuche.ru
+pixelhoehle.ru
 pixelorbit.ru
 pixelstern.ru
 pj9.m1stzone.ru
@@ -26279,6 +26342,7 @@ pqr.lysyrei3.ru
 pqr.rocixaa9.ru
 pr-0-tein-5-uch.ru
 pr.ember-grove.ru
+pr0fes5unfit.qpon
 pr0p0sedtact.ru
 pr0tein5uch.ru
 pr0wldrop.ru
@@ -26325,6 +26389,7 @@ pu5herw0man.ru
 pua4.spindleway.ru
 pub-1-icb-0-at.ru
 pub1icb0at.ru
+puffwarden.ru
 pufunyo3.ru
 pul.5b-c.ru
 pulse-knob.ru
@@ -26770,6 +26835,7 @@ qz6tf.pi1er5pat.ru
 qzad-3.ru
 qzq.zenith-snap.ru
 qzz.va4n.ru
+r-0-sebioom.ru
 r-1-mrock.ru
 r.5y4a.ru
 r.81dm.ru
@@ -26785,6 +26851,7 @@ r0adly.longj0urney.ru
 r0c.opalhollow.ru
 r0ckveil.ru
 r0f.skybr1dge.ru
+r0manexp7op.qpon
 r0q.brambleholt.ru
 r0sebioom.ru
 r0v3rnook.ru
@@ -26890,6 +26957,7 @@ rainv1sta.ru
 rajuy.icu
 ram.z3lu.ru
 ran.sjyj1.ru
+rangepip.ru
 ranhed.ba8ryanhe7d.ru
 rap.xa5r.ru
 rap1d5t0ne.ru
@@ -27111,6 +27179,7 @@ rock3.st0nebird.ru
 rockbyte.ru
 rockwind.ru
 rogosie4.ru
+roman9re5ate.motorcycles
 root.le3nsnet7e.ru
 root.qilaliy87.ru
 root4x.snowroot.ru
@@ -27207,6 +27276,7 @@ rv.nibulu.ru
 rv2o5.ru
 rv4sh.frost-fox.ru
 rv6324.online
+rv6324.ru
 rvni-2.ru
 rvni2.ru
 rvox.ru
@@ -27280,6 +27350,7 @@ s.zms-u.ru
 s0.n-jur.ru
 s04.fk9e2.ru
 s0apthorn.ru
+s0ckthorn.ru
 s0ftbyte.ru
 s0ftcloud.ru
 s0ftfern.ru
@@ -27297,7 +27368,9 @@ s1lentpath.ru
 s1lver.ru
 s1lvergate.ru
 s1lverpath.ru
+s1lverpeak.ru
 s1nkflare.ru
+s1ur5penok.qpon
 s2-ly.ru
 s2.b2ra.ru
 s3.bvum-6.ru
@@ -27344,6 +27417,7 @@ saclor.cos5acklove1.ru
 sacyd.icu
 sacyzie58.ru
 safebl0ck.ru
+safew0ods.ru
 saffron-zip.ru
 saffron.wtok-2.ru
 saffronhafen.ru
@@ -27426,6 +27500,9 @@ seheli.ru
 sekegyu6.ru
 selene8.clearm0on.ru
 selva.deep5tone.ru
+serena-point.ru
+serenapoint.online
+serenapoint.ru
 sesaf.icu
 set.me2v.ru
 seven5pr2y.ru
@@ -27464,6 +27541,8 @@ shad3o.0akshade.ru
 shade.fr0stharrow.ru
 shade.s0ftfern.ru
 shade8.shad0wdrop.ru
+shadow-fable.ru
+shadow-grove.ru
 shadow.adv0cal1egat.ru
 shadow.deepflash.ru
 shadow.gre2tre7ue.ru
@@ -27471,9 +27550,14 @@ shadow.suncrest0n.ru
 shadow2.r0ad.ru
 shadow6.st0nepeak.ru
 shadowb1t.ru
+shadowbyte.ru
 shadowc0re.ru
+shadowc1iff.ru
 shadowf0x.ru
+shadowfable.ru
 shadowfelsen.ru
+shadowgrove.online
+shadowgrove.ru
 shadowmint.ru
 shadowpeak.ru
 shadowsprint.ru
@@ -27714,6 +27798,7 @@ solarpeak.ru
 solarpfad.ru
 solarviolet.ru
 solax9.sun5t0ne.ru
+solget.pro
 solis.sunb1aze.ru
 solve.bogx.org
 solve.dpqx.org
@@ -27823,6 +27908,7 @@ spr1gg.leafbyte.ru
 spr1ng.leafjump.ru
 spray.m1stwave.ru
 sprigkompass.ru
+sprintmold.ru
 sprng9.fr0gtime.ru
 sprout.wduh-8.ru
 sproutkraft.ru
@@ -27872,10 +27958,12 @@ st0nefield.ru
 st0neflash.ru
 st0neforest.ru
 st0negate.ru
+st0neharbor.ru
 st0neleaf.ru
 st0nepath.ru
 st0nepeak.ru
 st0nesurge.ru
+st0nevalley.ru
 st0newave.ru
 st0nsy.sun5t0ne.ru
 st0rmbyte.ru
@@ -27911,6 +27999,8 @@ starforged.ru
 stargl0w.ru
 starl1necore.ru
 starl1nq.ru
+starlight-den.ru
+starlightden.ru
 starmarkt.ru
 steelpfad.ru
 steig.granitepfad.ru
@@ -28021,6 +28111,7 @@ stormgrat.ru
 stormharrow.ru
 storml1ne.ru
 stormlaterne.ru
+stormleaf.ru
 stormling.ru
 stormmint.ru
 stormoak.ru
@@ -28089,6 +28180,7 @@ sunb1aze.ru
 suncrest0n.ru
 sunfold.ru
 sunforge.ru
+sunm0ss.ru
 sunm0tion.ru
 sunm0x.5unm0ss.ru
 sunny-harbor.ru
@@ -28096,6 +28188,7 @@ sunny.cloudp0nd.ru
 sunny.dur2treces5.ru
 sunny.f1nsh2ytan.ru
 sunny.nightblossom.ru
+sunnyharbor.ru
 sunr1dge.ru
 sunrise.softshadow.ru
 sunsettrai1.ru
@@ -29032,6 +29125,7 @@ vased.icu
 vasih.icu
 vast.kuryc7yy1.ru
 vat.me2v.ru
+vault-cloudbox.com
 vaw.du2iv.ru
 vaw2.du2iv.ru
 vazyr4ii9.ru
@@ -29098,6 +29192,7 @@ vex-0.ru
 vex.qe3yn.ru
 vex0.ru
 vex7in.st0rmshade.ru
+vexdapper.ru
 vexlatch.ru
 vf.je9t.ru
 vfp.hy6o.ru
@@ -29271,6 +29366,7 @@ w1i.glacierbruecke.ru
 w1ld.ru
 w1ldforge.ru
 w1ldgate.ru
+w1ldshore.ru
 w1n.5lr1v.ru
 w1n.m4d8q9.ru
 w1n.u79p.ru
@@ -29586,6 +29682,7 @@ wind.ravenkiesel.ru
 wind.sageufer.ru
 wind.shad0wline.ru
 wind.zirconweg.ru
+wind0ak.ru
 wind2.dis-5-h-7-gien.ru
 wind3.crystalf0x.ru
 wind3.dustycode.ru
@@ -29783,6 +29880,8 @@ wv.safofoe5.ru
 wvnqb.press
 ww.libityi2.ru
 ww8.kalmykvic0te.ru
+www.crystal-berry.ru
+www.sunnyharbor.ru
 wx.jorx.ru
 wx.lo2p.ru
 wx.twy0.ru
