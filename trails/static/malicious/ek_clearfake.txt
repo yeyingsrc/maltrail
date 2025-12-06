@@ -31485,6 +31485,7 @@ digisikkerhet.com
 digitalserviceslinked.com
 digitalt-post.com
 dipartimentointesa.com
+disable-atlanticunionbank.com
 disablecoinbase.com
 distribution-mondial.com
 dkb-pushtan.com
@@ -32117,6 +32118,7 @@ recent-reader-review.com
 recent-removal-review.com
 recordfilings-ausupport.com
 recoverledgerdesk.com
+rectifyfidelity.xyz
 register-mobile-auth.com
 register-primary-device.com
 registermydevice.me
@@ -32347,6 +32349,7 @@ trezorsuiterecover.com
 trezorsuitesupport.com
 trezortroubleshoot.com
 trezorweb.app
+troubleshootfidelity.xyz
 troubleshootledger.com
 trust-connectwallet.com
 trusteerapport.com
