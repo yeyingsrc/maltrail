@@ -7,7 +7,11 @@
 
 194.36.188.77:52273
 wraithbot.net
+backup.wraithbot.net
+skx.wraithbot.net
+ult.wraithbot.net
+ultbu1.wraithbot.net
+ultbu2.wraithbot.net
 ns1.phosphorus.com.br
 web.phosphorus.com.br
 salesteam.qpoe.com
-ult.wraithbot.net
