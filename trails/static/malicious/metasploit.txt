@@ -6275,3 +6275,8 @@ is25.in
 
 83.143.242.46:30413
 83.143.242.46:39265
+
+# Reference: https://x.com/smica83/status/1998348838784864687
+# Reference: https://tria.ge/251209-m7hddadx8h/behavioral1
+
+3.212.197.166:8080
