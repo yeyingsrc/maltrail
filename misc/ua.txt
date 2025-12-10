@@ -2607,6 +2607,11 @@ Custom C++ HTTP Client/1.0
 
 MinerAlert
 
+# Reference: https://www.elastic.co/security-labs/nanoremote
+
+NanoRemote
+NanoRemote/1.0
+
 # Misc
 
 information_schema
