@@ -36221,6 +36221,8 @@ guest-mngt.com
 guest-reply-id4781.com
 guest-reply-id9782.com
 guest-reports.com
+guestmngr.com
+hmgrsoft.com
 hotel-gate.com
 hotel-reviwers.com
 hotelmngt.com
