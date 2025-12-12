@@ -7918,7 +7918,7 @@ bnpparibas.top
 
 # Reference: https://app.validin.com/detail?find=AD%20not%20found%20(captcha2)&type=raw&ref_id=b4d558549a9#tab=host_pairs (# 2025-06-12)
 # Reference: https://app.validin.com/detail?find=27d0999bd3ff56b19ff48cbea5284031&type=hash&ref_id=d036bf3a9ab#tab=host_pairs (# 2025-07-28)
-CLASS_0_HASH-HOST=dd0be7d2331c7bc3d50e45d8e66690fb
+# CLASS_0_HASH-HOST=dd0be7d2331c7bc3d50e45d8e66690fb
 
 1-stvilla-confirm-booking.com
 1-stvilla-reservation-completion.com
