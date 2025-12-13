@@ -2612,6 +2612,11 @@ MinerAlert
 NanoRemote
 NanoRemote/1.0
 
+# Reference: https://x.com/malwrhunterteam/status/1999821671012680105
+
+We deadass
+deadass
+
 # Misc
 
 information_schema
