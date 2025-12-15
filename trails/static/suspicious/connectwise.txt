@@ -1312,3 +1312,8 @@ edgeserv.ru
 
 124.198.132.55:8041
 memphiswave.com
+
+# Reference: https://x.com/malwrhunterteam/status/2000655687542788103
+# Reference: https://www.virustotal.com/gui/file/88bcc4eacf3c0dd26c57dfdd42da085eeff0bcc4c1106eceeba466c0a05fc1e5/detection
+
+server-ovh60010005-relay.screenconnect.com
