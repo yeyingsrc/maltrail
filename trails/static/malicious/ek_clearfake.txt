@@ -41268,29 +41268,6 @@ yet.npaym.com
 young.npaym.com
 zenkyosai.jp
 
-# Reference: https://x.com/JAMESWT_WT/status/2000829956532920542
-# Reference: https://x.com/skocherhan/status/2000876930887758010
-# Reference: https://app.any.run/tasks/ffc6c1c7-838d-4b00-b3ad-0bc16399653a
-
-2fa-accs.com
-2fa-bns.com
-2fa-css.com
-2vrfcs.com
-bknsitv.com
-bng-bsk.com
-boklsn.com
-bokprofare.com
-bokprost.com
-bokprowit.com
-boksitver.com
-bokverviol.com
-bonskqys.com
-bookmzn.com
-booknx.com
-low-house.com
-oncameraworkout.com
-tradingviewms.com
-
 # Generic
 
 /a3A7qLVn/
