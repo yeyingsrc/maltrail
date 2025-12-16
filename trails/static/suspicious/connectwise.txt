@@ -1317,3 +1317,8 @@ memphiswave.com
 # Reference: https://www.virustotal.com/gui/file/88bcc4eacf3c0dd26c57dfdd42da085eeff0bcc4c1106eceeba466c0a05fc1e5/detection
 
 server-ovh60010005-relay.screenconnect.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.168.101.197/relations
+
+connecragnar.ink
+cloud.connecragnar.ink
