@@ -6351,3 +6351,7 @@ is25.in
 # Reference: https://www.virustotal.com/gui/file/c8e1227234a4ebfa49902d7b6816c9c3a1db55f5d367b8d114e52c09c6157b28/detection
 
 172.233.17.91:36433
+
+# Reference: https://www.virustotal.com/gui/file/1a08ddbc85d707de7aaaded4ac8576e8304e60115716256b15968ce87295b493/detection
+
+172.233.17.91:33057
