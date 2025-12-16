@@ -1322,3 +1322,8 @@ server-ovh60010005-relay.screenconnect.com
 
 connecragnar.ink
 cloud.connecragnar.ink
+
+# Reference: https://www.virustotal.com/gui/file/8f7d1d641f3508548f23c787f105fa5729d89ca42f782f723b077ea897850f27/detection
+
+80.76.49.114:8041
+basb24ao.anondns.net
