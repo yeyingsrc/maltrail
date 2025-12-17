@@ -1327,3 +1327,9 @@ cloud.connecragnar.ink
 
 80.76.49.114:8041
 basb24ao.anondns.net
+
+# Reference: https://www.virustotal.com/gui/file/aaf8502a78c6fc6951a3dad2ab8d5dc7667628be8336bc6b347abc3cf5516866/detection
+# Reference: https://www.virustotal.com/gui/file/d165b940a903c63a6a40144a8a34b10943c993f1b2ec3d8a446ffe17b3910229/detection
+
+80.76.49.228:8041
+asgqt215af.anondns.net
