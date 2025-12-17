@@ -1333,3 +1333,8 @@ basb24ao.anondns.net
 
 80.76.49.228:8041
 asgqt215af.anondns.net
+
+# Reference: https://x.com/smica83/status/2001319044218040686
+# Reference: https://tria.ge/251217-s9e9paaw4h/behavioral1
+
+instance-yahsai-relay.screenconnect.com
