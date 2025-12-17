@@ -5147,3 +5147,7 @@ xn--dedatec-ndb.com
 yesmilano.blog
 yuntunmanage.com
 zoom-usintlrequest.com
+
+# Reference: https://x.com/tuckner/status/2001310981427761343
+
+d1af4jmeh7p3d8.cloudfront.net
