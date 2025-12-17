@@ -16465,6 +16465,10 @@ onlinesupportmatrix.xyz
 onlinesupportmatrix․support
 requiresys.icu
 
+# Reference: https://x.com/sdcyberresearch/status/2001277909835591854
+
+wireframe.nday.net
+
 # Generic
 
 /assets/lfg.js
