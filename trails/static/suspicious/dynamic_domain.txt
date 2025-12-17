@@ -3832,3 +3832,7 @@ mydns.vc
 # Reference: https://www.virustotal.com/gui/domain/fpr.net/relations
 
 fpr.net
+
+# Reference: https://www.virustotal.com/gui/domain/abrdns.com/relations
+
+abrdns.com
