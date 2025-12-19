@@ -1338,3 +1338,9 @@ asgqt215af.anondns.net
 # Reference: https://tria.ge/251217-s9e9paaw4h/behavioral1
 
 instance-yahsai-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2001781643497894249
+# Reference: https://www.virustotal.com/gui/file/86b6f0171e9e3066125b1ae6abd6828f2079d580abe1c66234106ddac34aa031/detection
+
+instance-cuom2j-relay.screenconnect.com
+server-ovh30020022-relay.screenconnect.com
