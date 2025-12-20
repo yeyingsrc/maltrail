@@ -9136,6 +9136,11 @@ d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
 /obfuscate-vba.py
 /xor-payload.py
 
+# Reference: https://x.com/smica83/status/2002493152641585438
+
+/zo4nik/oxygensmoke.ps1
+/oxygensmoke.ps1
+
 # Generic
 
 /5c0ca79.php
