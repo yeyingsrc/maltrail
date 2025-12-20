@@ -1355,3 +1355,9 @@ instance-mxhqh7-relay.screenconnect.com
 
 instance-jg2pse-relay.screenconnect.com
 server-ovh60020005-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2002152723769405593
+# Reference: https://www.virustotal.com/gui/file/3da0a6b6cb58e7d449419156633a5dd0c287d23587bfee1df02614212c868e23/detection
+
+instance-mw4jg8-relay.screenconnect.com
+server-ovh60010015-relay.screenconnect.com
