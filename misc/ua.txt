@@ -2617,6 +2617,11 @@ NanoRemote/1.0
 We deadass
 deadass
 
+# Reference: https://www.zscaler.com/blogs/security-research/zscaler-threat-hunting-catches-evasive-sidewinder-apt-campaign
+
+TimeClient/1.0
+work/1.0
+
 # Misc
 
 information_schema
