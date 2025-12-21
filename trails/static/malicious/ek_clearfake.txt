@@ -19506,6 +19506,7 @@ ac.s7z7r.ru
 ac0rnrepr0d.ru
 account-captcha.eu
 account-extracaptcha.com
+accountpulsenupdate.com
 accountpulseupdate.com
 acid-wrench.ru
 acidwrench.ru
@@ -33877,6 +33878,7 @@ auoffice-taxreport.com.de
 auonline-services.com.de
 aupendingnoticesinfo.com
 auprependnotifier.com
+aus-identifyauth.online
 ausasessmntport.online
 auscrypto-con.org
 auservices-authorization.net
@@ -33940,8 +33942,10 @@ bcs-livecheck.com
 bekraftasecurity.com
 belastingdienst-mijnoverzicht.info
 belgiumpostonline.com
+belousmajentos.com
 bendigohelp.com
 ber-cid.net
+bestshorses.com
 betaal-notificatie.com
 betaling-afronden.net
 billls-payservices.io
