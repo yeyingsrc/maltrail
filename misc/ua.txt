@@ -2622,6 +2622,11 @@ deadass
 TimeClient/1.0
 work/1.0
 
+# Reference: https://x.com/smica83/status/2002493152641585438
+# Reference: https://x.com/malwrhunterteam/status/2002494903113429404
+
+\bUA WindowsPowerShell\b
+
 # Misc
 
 information_schema
