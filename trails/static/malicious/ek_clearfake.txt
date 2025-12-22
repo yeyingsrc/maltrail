@@ -42871,6 +42871,11 @@ ziverenkruls.site
 zllverenkrul-nl.site
 zlveren-nlkrui.site
 
+# Reference: https://x.com/JAMESWT_WT/status/2002992045225574718
+
+bocking.netlify.app
+bookingc.netlify.app
+
 # Generic
 
 /a3A7qLVn/
