@@ -2632,6 +2632,12 @@ work/1.0
 MiraiSystem
 MiraiSystem/1.0
 
+# Reference: https://x.com/SquiblydooBlog/status/2003531990717596171
+# Reference: https://www.virustotal.com/gui/file/88954524b8e24acad13d00e1bb66f6cd437df1039087945ff1b010f9c217c1fa/detection
+
+TrashAgent
+TrashAgent/1.0
+
 # Misc
 
 information_schema
