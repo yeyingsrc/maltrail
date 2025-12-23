@@ -2627,6 +2627,11 @@ work/1.0
 
 \bUA WindowsPowerShell\b
 
+# Reference: https://x.com/suyog41/status/2003348466559574056
+
+MiraiSystem
+MiraiSystem/1.0
+
 # Misc
 
 information_schema
