@@ -16475,6 +16475,11 @@ wireframe.nday.net
 
 applclickanalytics.com
 
+# Reference: https://x.com/sdcyberresearch/status/2003811306848362919
+
+ixopt.pics
+virtustat.shop
+
 # Generic
 
 /assets/lfg.js
