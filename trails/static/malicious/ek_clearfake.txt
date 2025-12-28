@@ -44541,6 +44541,11 @@ yamatravel.jp
 yandell.me.uk
 zarkasyi-golkar12.com
 
+# Reference: https://x.com/JAMESWT_WT/status/2005189118746394709
+
+web-partner-app.com
+booking.web-partner-app.com
+
 # Generic
 
 /a3A7qLVn/
