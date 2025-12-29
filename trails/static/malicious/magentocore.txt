@@ -16489,6 +16489,23 @@ virtustat.shop
 vw-cars.top
 wvxmas.top
 
+# Reference: https://x.com/sdcyberresearch/status/2005621112898548175
+
+bitbaystats.com
+bootstrap-sdn.com
+cdn-htojar.com
+claritycrown.com
+ftp-opencart.com
+googlemanageranalytic.com
+gtm-analyticsdn.com
+hotanalytic.com
+jquery-minical.com
+jquery-stupify.com
+sdn-jquary.com
+sdn-optima.com
+staticsinfo.com
+supluyers.com
+
 # Generic
 
 /assets/lfg.js
