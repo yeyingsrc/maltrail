@@ -16491,20 +16491,46 @@ wvxmas.top
 
 # Reference: https://x.com/sdcyberresearch/status/2005621112898548175
 
+analyticsamazing.info
+basestatos.com
 bitbaystats.com
+bootstatseven.com
 bootstrap-sdn.com
 cdn-htojar.com
 claritycrown.com
+clearprint.tech
+cloudframestat.com
+cloudlstatics.com
+fbfromstat.com
 ftp-opencart.com
+googledriveanalytice.com
 googlemanageranalytic.com
 gtm-analyticsdn.com
 hotanalytic.com
+iframemetric.com
+jquarystatistic.com
+jquery-boots.com
+jquery-hoster.com
 jquery-minical.com
 jquery-stupify.com
+jquery-tech.com
+jstreecommon.com
+ninebasec.com
+primestatics.com
+rtc-forms.com
+rtc-info.com
 sdn-jquary.com
 sdn-optima.com
+sdn-starstair.com
+sdn-veryfy.com
+shfeeds.com
+ssa-conections.com
 staticsinfo.com
+statisticmanager.com
+statistoinf.info
+stiticlouds.com
 supluyers.com
+tryanalitics.com
 
 # Generic
 
