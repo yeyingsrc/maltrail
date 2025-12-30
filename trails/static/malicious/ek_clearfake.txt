@@ -40302,10 +40302,13 @@ booking.lastminreviwers.com
 booking.required-extranet.com
 booking.reviwes-services.com
 checks-extranet.com
+digital-oldsecond-app.com
+docs-shareview.com
 extranet-reports.com
 extranet-serviseid.com
 extrant-id16563.com
 extrmnet-platform.com
+googledocs.docs-shareview.com
 guest-accepd.com
 guest-exranets.com
 guest-mngt.com
@@ -40319,7 +40322,9 @@ hotel-reviwers.com
 hotelmngt.com
 lastminreviwers.com
 mngtsystem.com
+my-app-fhfcu.com
 my-app-kemba.cfd
+my-growebank-trust.com
 my-kemba-portal.com
 required-extranet.com
 reviwes-services.com
