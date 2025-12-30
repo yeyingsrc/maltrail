@@ -21488,6 +21488,7 @@ cdn187-crashreport.coupons
 cdn189-crashanalytics.qpon
 cdn19-crashreport.com
 cdn2-crashreport.com
+cdn201-crashstatus.coupons
 cdn245-crashanalytics.qpon
 cdn257-crashreport.com
 cdn258-crashreport.com
@@ -21546,6 +21547,7 @@ cdn360-errortracker.info
 cdn360-errortracker.pro
 cdn361-crashlog.coupons
 cdn362-reportdump.coupons
+cdn369-crashmonitor.coupons
 cdn369-faultmonitor.com
 cdn375-dumpsender.com
 cdn377-errortrace.coupons
@@ -21573,6 +21575,7 @@ cdn654-crashtrack.coupons
 cdn675-errorupload.coupons
 cdn678-errorissue.com
 cdn685-crashtrack.qpon
+cdn735-crashtrack.coupons
 cdn8-browser-telemetry.net
 cdr.r0cketf2rm.ru
 ce.tygilyo.ru
