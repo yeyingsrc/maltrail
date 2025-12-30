@@ -999,6 +999,8 @@ trackthem.xyz
 
 # Reference: https://x.com/Fact_Finder03/status/2005946833768489036
 
+http://64.188.79.45
+64.188.79.45:443
 voxpanel.vu
 
 # Generic
