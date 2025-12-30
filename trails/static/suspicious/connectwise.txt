@@ -1367,3 +1367,8 @@ server-ovh60010015-relay.screenconnect.com
 
 185.254.97.249:8041
 pingserv.pro
+
+# Reference: https://www.virustotal.com/gui/file/67a0d22de4ce8a83cc7601bd70fbd8056742d10cd01c32b2558dc5fb64d18752/detection
+
+45.145.41.205:8041
+winservec.net
