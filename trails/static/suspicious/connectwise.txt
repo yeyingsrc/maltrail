@@ -1361,3 +1361,9 @@ server-ovh60020005-relay.screenconnect.com
 
 instance-mw4jg8-relay.screenconnect.com
 server-ovh60010015-relay.screenconnect.com
+
+# Reference: https://x.com/struppigel/status/2005892030291906776
+# Reference: https://www.virustotal.com/gui/file/30b2dfb2c78e215427b67e565924b9ada40e1736615cb74e2e88518c625518e2/detection
+
+185.254.97.249:8041
+pingserv.pro
