@@ -40292,6 +40292,8 @@ youtude-confi.com
 # Reference: https://app.validin.com/detail?find=e5c1c53286f5b932979d&type=hash&ref_id=687052cf61f#tab=host_pairs (# 2025-12-01)
 
 accepd-guest.com
+accesguestid.com
+action-guesthelp.com
 app-check-platform.com
 app-secur-platform.com
 app-shield-platform.com
@@ -40315,12 +40317,16 @@ guest-mngt.com
 guest-reply-id4781.com
 guest-reply-id9782.com
 guest-reports.com
+guest-reviwers.com
 guestmngr.com
 hmgrsoft.com
 hotel-gate.com
 hotel-reviwers.com
 hotelmngt.com
 lastminreviwers.com
+manage-guest.com
+mngt-hotel.com
+mngthotel.com
 mngtsystem.com
 my-app-fhfcu.com
 my-app-kemba.cfd
@@ -40328,7 +40334,10 @@ my-bankatclty.cfd
 my-growebank-trust.com
 my-kemba-portal.com
 my-kernda.cfd
+new-reviewes.com
+report-assist.com
 required-extranet.com
+reviwe-reports.com
 reviwes-services.com
 web-secrue-portal.com
 web-securety-gate.com
