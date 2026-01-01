@@ -13088,6 +13088,7 @@ humn.pro
 ibmpc.cc
 itracking.autos
 jackst.site
+jetex.pics
 jetstat.info
 jfkai.live
 kcjosef.fun
@@ -13099,6 +13100,7 @@ livedirect.my
 lonefrst.today
 megastat.shop
 metamanager.shop
+ministat.shop
 monstr.cv
 musmash.one
 nextai.cam
@@ -13146,6 +13148,7 @@ vvwv.dev
 webstat.help
 wikistat.wiki
 wwwi.click
+xpertbit.shop
 xtras.work
 xtreme.boats
 xztv.me
