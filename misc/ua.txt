@@ -2638,6 +2638,11 @@ MiraiSystem/1.0
 TrashAgent
 TrashAgent/1.0
 
+# Reference: https://x.com/suyog41/status/2006987043113726040
+
+NebulaStub
+NebulaStub/1.0
+
 # Misc
 
 information_schema
