@@ -2643,6 +2643,10 @@ TrashAgent/1.0
 NebulaStub
 NebulaStub/1.0
 
+# Reference: https://tria.ge/251123-s612zstjgn/behavioral2
+
+nfjjlx
+
 # Misc
 
 information_schema
